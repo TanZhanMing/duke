@@ -11,3 +11,10 @@ src/main/resources/docs/
 # MacOS custom attributes files created by Finder
 .DS_Store
 *.iml
+bin/
+
+# Duke data
+/data/
+
+# JAR data
+/src/main/java/META-INF/
